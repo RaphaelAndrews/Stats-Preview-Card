@@ -19,4 +19,4 @@ Essa é a minha solução para o desafio do Frontendmentor.io - Stats Preview Ca
 ## Autor
 
 - LinkedIn - [Raphael Andrews](https://www.linkedin.com/in/raphael-andrews/)
-- Personal Site - [Raphael Andrews Site](https://raphaelandrews.github.io/Andrews.Me)
+- Personal Site - [Raphael Andrews Site](https://raphaelandrews.github.io/andrews)
